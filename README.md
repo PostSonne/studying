@@ -1,1 +1,1 @@
-# studying
+# Repository with study stuff
