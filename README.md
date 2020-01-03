@@ -1,1 +1,1 @@
-# Repository with study stuff
+# Repository with University studying stuff
